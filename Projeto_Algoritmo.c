@@ -1,7 +1,7 @@
 /* Diogo Oliveira Uema
    Gabriel Alves Gomes
-   Henrique Ramos Marinho
-   Moises Manoel Dos Santos Filho */
+   Moises Manoel Dos Santos Filho 
+*/
 
 
 #include <stdio.h>
